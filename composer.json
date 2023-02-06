@@ -1,5 +1,5 @@
 {
-  "name": "staempfli/magento2-module-image-resizer",
+  "name": "blackbird-agency/magento2-module-image-resizer",
   "description": "Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates",
   "require": {
     "php": "^7.0|^8.0"
